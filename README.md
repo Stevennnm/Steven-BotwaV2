@@ -1,4 +1,4 @@
-# Steven-Wabot
+# Steven-WabotV2
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Stevennnm/Steven-Wabot
-> cd Steven-Wabot
+> git clone https://github.com/Stevennnm/Steven-WabotV2
+> cd Steven-WabotV2
 > npm install
 ```
 ###### Run
