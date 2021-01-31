@@ -3,18 +3,17 @@ Simple WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
-> pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
+> pkg install git
+> pkg install ffmpeg
+> pkg install imagagick
+> pkg install nodejs
 > git clone https://github.com/Stevennnm/Steven-WabotV2
 > cd Steven-WabotV2
-> npm install
+> npm i
 ```
 ###### Run
 ```bash
-> node . [<session name>] (session name is optional)
+> node index.js
 ```
 
 ---------
@@ -25,7 +24,7 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Stevennnm/Steven-Wabot
+> git clone https://github.com/Stevennnm/Steven-WabotV2
 > cd wabot-aq
 > npm install
 ```
